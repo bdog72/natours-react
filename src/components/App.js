@@ -1,13 +1,13 @@
 import React, { Component } from 'react'
 import Header from './Header'
-import Grid from './Grid'
+import Main from './Main'
 
 class App extends Component {
   render () {
     return (
       <div>
         <Header />
-        <Grid />
+        <Main />
       </div>
     )
   }
