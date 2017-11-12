@@ -3,3 +3,14 @@
   padding: 15.625rem 0;
   margin-top: -20vh;
 }
+
+.section-features {
+  padding: 12rem 0;
+  background-image:
+    linear-gradient(
+      to right bottom,
+      rgba($color-primary-light, 0.8),
+      rgba($color-primary-dark, 0.8)
+    ),
+    url('../../public/images/nat-4.jpg');
+}
